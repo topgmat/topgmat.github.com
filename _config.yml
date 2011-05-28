@@ -1,0 +1,5 @@
+safe: true
+source: .
+destination: ../topgmat.static
+lsi: false
+pygments: true
