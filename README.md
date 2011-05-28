@@ -2,7 +2,7 @@
 # TopGMAT.com
 
 
-github-based website for TopGMAT.com
+a github-based website for TopGMAT.com
 
 
 
