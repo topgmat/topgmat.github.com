@@ -1,11 +1,9 @@
 ---
-layout: post
-title: Welcome to TopGMAT.com
+title: Home
+layout: wikistyle
 ---
 
-
 # TopGMAT.com
-
 
 a github-based website for TopGMAT.com
 
